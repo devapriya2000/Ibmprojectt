@@ -35,5 +35,3 @@ The app provides a smooth web-based interface and can be extended to include adv
 
 
 
-ttps://github.com/devapriya2000/Ibmprojectt.git
-cd Ibmprojectt
